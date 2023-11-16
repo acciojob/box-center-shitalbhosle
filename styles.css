@@ -1,1 +1,20 @@
 /*  your css code here. If applicable */
+.container{
+	width:200px;
+	height:200px;
+	background-color:lightblue;
+	position:absolute;
+	top:50%;
+	left:50%;
+	transform:translate(-50%, -50%);
+	
+}
+p{
+	position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    margin: 0;
+	color:purple;
+	font-size:18px;
+}
